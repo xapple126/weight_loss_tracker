@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "450761559325",
+    "project_id": "weight-tracker-a63ba",
+    "storage_bucket": "weight-tracker-a63ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450761559325:android:fb9d69fcc9b468f52525f4",
+        "android_client_info": {
+          "package_name": "com.olaf.weight_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450761559325-f5pqhcln0tcoha0g2cao5hgifjo2lbin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olaf.weight_tracker",
+            "certificate_hash": "1cf29ecc0f7dcc8038ee42a96afa4e091eb96bcd"
+          }
+        },
+        {
+          "client_id": "450761559325-tpoggn220jsfnjj1k6qsfejgdusm85q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkB6wtWmXNukYW44hilTyT5abvoe9tHs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450761559325-tpoggn220jsfnjj1k6qsfejgdusm85q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
